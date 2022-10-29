@@ -28,5 +28,17 @@
   <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height="150"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="150"/>
+  </div>
+  
+  ---
+  
+  ### :man_technologist: About Me :
+  <h1>
+  Felling a little lazy <img src="https://media.giphy.com/media/f4SoNPj4otohG/giphy-downsized-large.gif" width="30"> , I will update it later 
+  </h1>
 
   
