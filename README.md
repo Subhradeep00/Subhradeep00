@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <a href="Myfamily9476@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/@Multimeterv3">
+  <a href="t.me/@Multimeterv3">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
