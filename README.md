@@ -38,7 +38,7 @@
   
   ### :man_technologist: About Me :
   <h1>
-  Felling a little lazy <img src="https://media.giphy.com/media/f4SoNPj4otohG/giphy-downsized-large.gif" width="30"> , I will update it later 
+  Felling a little lazy <img src="https://media.giphy.com/media/f4SoNPj4otohG/giphy-downsized-large.gif" width="60"> , I will update it later 
   </h1>
 
   
